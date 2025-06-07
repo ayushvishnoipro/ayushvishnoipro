@@ -14,7 +14,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,aws,vercel,netlify,git,github,postman,jupyter" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,numpy,pandas,scikit-learn,matplotlib,streamlit" />
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,scikit-learn,matplotlib,streamlit" />
 </p>
 
 ---
