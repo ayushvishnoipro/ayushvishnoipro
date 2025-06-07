@@ -1,6 +1,5 @@
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> I'm Ayush Vishnoi!</h1>
 
-[![An image of @ayushvishnoipro's Holopin badges](https://holopin.me/ayushvishnoipro)](https://holopin.io/@ayushvishnoipro)
 
 <h3 align="center">GenAI Developer ⚙️ | Multi-Agent Systems 🧠 | Pythonist 🐍 | C++ Programmer 💻</h3>
 
